@@ -1,0 +1,3966 @@
+{
+  "name": "IEEE 118-bus test system, PGLib-OPF v23.07 physical values in grid_tools-compatible schema",
+  "buses": [
+    {
+      "id": "Bus1",
+      "bus_idx": 0,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus2",
+      "bus_idx": 1,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus3",
+      "bus_idx": 2,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus4",
+      "bus_idx": 3,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus5",
+      "bus_idx": 4,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus6",
+      "bus_idx": 5,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus7",
+      "bus_idx": 6,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus8",
+      "bus_idx": 7,
+      "vn_kv": 345,
+      "zone": 1
+    },
+    {
+      "id": "Bus9",
+      "bus_idx": 8,
+      "vn_kv": 345,
+      "zone": 1
+    },
+    {
+      "id": "Bus10",
+      "bus_idx": 9,
+      "vn_kv": 345,
+      "zone": 1
+    },
+    {
+      "id": "Bus11",
+      "bus_idx": 10,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus12",
+      "bus_idx": 11,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus13",
+      "bus_idx": 12,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus14",
+      "bus_idx": 13,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus15",
+      "bus_idx": 14,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus16",
+      "bus_idx": 15,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus17",
+      "bus_idx": 16,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus18",
+      "bus_idx": 17,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus19",
+      "bus_idx": 18,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus20",
+      "bus_idx": 19,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus21",
+      "bus_idx": 20,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus22",
+      "bus_idx": 21,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus23",
+      "bus_idx": 22,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus24",
+      "bus_idx": 23,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus25",
+      "bus_idx": 24,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus26",
+      "bus_idx": 25,
+      "vn_kv": 345,
+      "zone": 1
+    },
+    {
+      "id": "Bus27",
+      "bus_idx": 26,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus28",
+      "bus_idx": 27,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus29",
+      "bus_idx": 28,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus30",
+      "bus_idx": 29,
+      "vn_kv": 345,
+      "zone": 1
+    },
+    {
+      "id": "Bus31",
+      "bus_idx": 30,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus32",
+      "bus_idx": 31,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus33",
+      "bus_idx": 32,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus34",
+      "bus_idx": 33,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus35",
+      "bus_idx": 34,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus36",
+      "bus_idx": 35,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus37",
+      "bus_idx": 36,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus38",
+      "bus_idx": 37,
+      "vn_kv": 345,
+      "zone": 1
+    },
+    {
+      "id": "Bus39",
+      "bus_idx": 38,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus40",
+      "bus_idx": 39,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus41",
+      "bus_idx": 40,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus42",
+      "bus_idx": 41,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus43",
+      "bus_idx": 42,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus44",
+      "bus_idx": 43,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus45",
+      "bus_idx": 44,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus46",
+      "bus_idx": 45,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus47",
+      "bus_idx": 46,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus48",
+      "bus_idx": 47,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus49",
+      "bus_idx": 48,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus50",
+      "bus_idx": 49,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus51",
+      "bus_idx": 50,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus52",
+      "bus_idx": 51,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus53",
+      "bus_idx": 52,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus54",
+      "bus_idx": 53,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus55",
+      "bus_idx": 54,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus56",
+      "bus_idx": 55,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus57",
+      "bus_idx": 56,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus58",
+      "bus_idx": 57,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus59",
+      "bus_idx": 58,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus60",
+      "bus_idx": 59,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus61",
+      "bus_idx": 60,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus62",
+      "bus_idx": 61,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus63",
+      "bus_idx": 62,
+      "vn_kv": 345,
+      "zone": 1
+    },
+    {
+      "id": "Bus64",
+      "bus_idx": 63,
+      "vn_kv": 345,
+      "zone": 1
+    },
+    {
+      "id": "Bus65",
+      "bus_idx": 64,
+      "vn_kv": 345,
+      "zone": 1
+    },
+    {
+      "id": "Bus66",
+      "bus_idx": 65,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus67",
+      "bus_idx": 66,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus68",
+      "bus_idx": 67,
+      "vn_kv": 345,
+      "zone": 1
+    },
+    {
+      "id": "Bus69",
+      "bus_idx": 68,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus70",
+      "bus_idx": 69,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus71",
+      "bus_idx": 70,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus72",
+      "bus_idx": 71,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus73",
+      "bus_idx": 72,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus74",
+      "bus_idx": 73,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus75",
+      "bus_idx": 74,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus76",
+      "bus_idx": 75,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus77",
+      "bus_idx": 76,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus78",
+      "bus_idx": 77,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus79",
+      "bus_idx": 78,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus80",
+      "bus_idx": 79,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus81",
+      "bus_idx": 80,
+      "vn_kv": 345,
+      "zone": 1
+    },
+    {
+      "id": "Bus82",
+      "bus_idx": 81,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus83",
+      "bus_idx": 82,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus84",
+      "bus_idx": 83,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus85",
+      "bus_idx": 84,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus86",
+      "bus_idx": 85,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus87",
+      "bus_idx": 86,
+      "vn_kv": 161,
+      "zone": 1
+    },
+    {
+      "id": "Bus88",
+      "bus_idx": 87,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus89",
+      "bus_idx": 88,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus90",
+      "bus_idx": 89,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus91",
+      "bus_idx": 90,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus92",
+      "bus_idx": 91,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus93",
+      "bus_idx": 92,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus94",
+      "bus_idx": 93,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus95",
+      "bus_idx": 94,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus96",
+      "bus_idx": 95,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus97",
+      "bus_idx": 96,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus98",
+      "bus_idx": 97,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus99",
+      "bus_idx": 98,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus100",
+      "bus_idx": 99,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus101",
+      "bus_idx": 100,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus102",
+      "bus_idx": 101,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus103",
+      "bus_idx": 102,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus104",
+      "bus_idx": 103,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus105",
+      "bus_idx": 104,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus106",
+      "bus_idx": 105,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus107",
+      "bus_idx": 106,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus108",
+      "bus_idx": 107,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus109",
+      "bus_idx": 108,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus110",
+      "bus_idx": 109,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus111",
+      "bus_idx": 110,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus112",
+      "bus_idx": 111,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus113",
+      "bus_idx": 112,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus114",
+      "bus_idx": 113,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus115",
+      "bus_idx": 114,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus116",
+      "bus_idx": 115,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus117",
+      "bus_idx": 116,
+      "vn_kv": 138,
+      "zone": 1
+    },
+    {
+      "id": "Bus118",
+      "bus_idx": 117,
+      "vn_kv": 138,
+      "zone": 1
+    }
+  ],
+  "generators": [
+    {
+      "id": "Gen_slack_1",
+      "bus_id": "Bus69",
+      "bus_idx": 68,
+      "type": "slack",
+      "min_p_mw": 0,
+      "max_p_mw": 1182,
+      "p_mw": 591,
+      "cost_c0": 0,
+      "cost_c1": 25.758442,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_2",
+      "bus_id": "Bus1",
+      "bus_idx": 0,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 0,
+      "p_mw": 0,
+      "cost_c0": 0,
+      "cost_c1": 0,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_3",
+      "bus_id": "Bus4",
+      "bus_idx": 3,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 0,
+      "p_mw": 0,
+      "cost_c0": 0,
+      "cost_c1": 0,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_4",
+      "bus_id": "Bus6",
+      "bus_idx": 5,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 0,
+      "p_mw": 0,
+      "cost_c0": 0,
+      "cost_c1": 0,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_5",
+      "bus_id": "Bus8",
+      "bus_idx": 7,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 0,
+      "p_mw": 0,
+      "cost_c0": 0,
+      "cost_c1": 0,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_6",
+      "bus_id": "Bus10",
+      "bus_idx": 9,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 505,
+      "p_mw": 252.5,
+      "cost_c0": 0,
+      "cost_c1": 24.98342,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_7",
+      "bus_id": "Bus12",
+      "bus_idx": 11,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 85,
+      "p_mw": 42.5,
+      "cost_c0": 0,
+      "cost_c1": 124.581564,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_8",
+      "bus_id": "Bus15",
+      "bus_idx": 14,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 0,
+      "p_mw": 0,
+      "cost_c0": 0,
+      "cost_c1": 0,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_9",
+      "bus_id": "Bus18",
+      "bus_idx": 17,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 0,
+      "p_mw": 0,
+      "cost_c0": 0,
+      "cost_c1": 0,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_10",
+      "bus_id": "Bus19",
+      "bus_idx": 18,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 0,
+      "p_mw": 0,
+      "cost_c0": 0,
+      "cost_c1": 0,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_11",
+      "bus_id": "Bus24",
+      "bus_idx": 23,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 0,
+      "p_mw": 0,
+      "cost_c0": 0,
+      "cost_c1": 0,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_12",
+      "bus_id": "Bus25",
+      "bus_idx": 24,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 221,
+      "p_mw": 110.5,
+      "cost_c0": 0,
+      "cost_c1": 28.948321,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_13",
+      "bus_id": "Bus26",
+      "bus_idx": 25,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 485,
+      "p_mw": 242.5,
+      "cost_c0": 0,
+      "cost_c1": 22.22098,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_14",
+      "bus_id": "Bus27",
+      "bus_idx": 26,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 0,
+      "p_mw": 0,
+      "cost_c0": 0,
+      "cost_c1": 0,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_15",
+      "bus_id": "Bus31",
+      "bus_idx": 30,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 17,
+      "p_mw": 8.5,
+      "cost_c0": 0,
+      "cost_c1": 25.993982,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_16",
+      "bus_id": "Bus32",
+      "bus_idx": 31,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 0,
+      "p_mw": 0,
+      "cost_c0": 0,
+      "cost_c1": 0,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_17",
+      "bus_id": "Bus34",
+      "bus_idx": 33,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 0,
+      "p_mw": 0,
+      "cost_c0": 0,
+      "cost_c1": 0,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_18",
+      "bus_id": "Bus36",
+      "bus_idx": 35,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 0,
+      "p_mw": 0,
+      "cost_c0": 0,
+      "cost_c1": 0,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_19",
+      "bus_id": "Bus40",
+      "bus_idx": 39,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 0,
+      "p_mw": 0,
+      "cost_c0": 0,
+      "cost_c1": 0,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_20",
+      "bus_id": "Bus42",
+      "bus_idx": 41,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 0,
+      "p_mw": 0,
+      "cost_c0": 0,
+      "cost_c1": 0,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_21",
+      "bus_id": "Bus46",
+      "bus_idx": 45,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 20,
+      "p_mw": 10,
+      "cost_c0": 0,
+      "cost_c1": 24.202306,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_22",
+      "bus_id": "Bus49",
+      "bus_idx": 48,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 223,
+      "p_mw": 111.5,
+      "cost_c0": 0,
+      "cost_c1": 16.673942,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_23",
+      "bus_id": "Bus54",
+      "bus_idx": 53,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 53,
+      "p_mw": 26.5,
+      "cost_c0": 0,
+      "cost_c1": 27.277343,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_24",
+      "bus_id": "Bus55",
+      "bus_idx": 54,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 0,
+      "p_mw": 0,
+      "cost_c0": 0,
+      "cost_c1": 0,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_25",
+      "bus_id": "Bus56",
+      "bus_idx": 55,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 0,
+      "p_mw": 0,
+      "cost_c0": 0,
+      "cost_c1": 0,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_26",
+      "bus_id": "Bus59",
+      "bus_idx": 58,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 308,
+      "p_mw": 154,
+      "cost_c0": 0,
+      "cost_c1": 24.861868,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_27",
+      "bus_id": "Bus61",
+      "bus_idx": 60,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 195,
+      "p_mw": 97.5,
+      "cost_c0": 0,
+      "cost_c1": 16.056042,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_28",
+      "bus_id": "Bus62",
+      "bus_idx": 61,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 0,
+      "p_mw": 0,
+      "cost_c0": 0,
+      "cost_c1": 0,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_29",
+      "bus_id": "Bus65",
+      "bus_idx": 64,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 441,
+      "p_mw": 220.5,
+      "cost_c0": 0,
+      "cost_c1": 34.781778,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_30",
+      "bus_id": "Bus66",
+      "bus_idx": 65,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 784,
+      "p_mw": 392,
+      "cost_c0": 0,
+      "cost_c1": 32.668781,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_31",
+      "bus_id": "Bus70",
+      "bus_idx": 69,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 0,
+      "p_mw": 0,
+      "cost_c0": 0,
+      "cost_c1": 0,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_32",
+      "bus_id": "Bus72",
+      "bus_idx": 71,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 0,
+      "p_mw": 0,
+      "cost_c0": 0,
+      "cost_c1": 0,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_33",
+      "bus_id": "Bus73",
+      "bus_idx": 72,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 0,
+      "p_mw": 0,
+      "cost_c0": 0,
+      "cost_c1": 0,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_34",
+      "bus_id": "Bus74",
+      "bus_idx": 73,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 0,
+      "p_mw": 0,
+      "cost_c0": 0,
+      "cost_c1": 0,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_35",
+      "bus_id": "Bus76",
+      "bus_idx": 75,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 0,
+      "p_mw": 0,
+      "cost_c0": 0,
+      "cost_c1": 0,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_36",
+      "bus_id": "Bus77",
+      "bus_idx": 76,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 0,
+      "p_mw": 0,
+      "cost_c0": 0,
+      "cost_c1": 0,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_37",
+      "bus_id": "Bus80",
+      "bus_idx": 79,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 509,
+      "p_mw": 254.5,
+      "cost_c0": 0,
+      "cost_c1": 24.600772,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_38",
+      "bus_id": "Bus85",
+      "bus_idx": 84,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 0,
+      "p_mw": 0,
+      "cost_c0": 0,
+      "cost_c1": 0,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_39",
+      "bus_id": "Bus87",
+      "bus_idx": 86,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 10,
+      "p_mw": 5,
+      "cost_c0": 0,
+      "cost_c1": 34.072633,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_40",
+      "bus_id": "Bus89",
+      "bus_idx": 88,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 637,
+      "p_mw": 318.5,
+      "cost_c0": 0,
+      "cost_c1": 24.605102,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_41",
+      "bus_id": "Bus90",
+      "bus_idx": 89,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 0,
+      "p_mw": 0,
+      "cost_c0": 0,
+      "cost_c1": 0,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_42",
+      "bus_id": "Bus91",
+      "bus_idx": 90,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 0,
+      "p_mw": 0,
+      "cost_c0": 0,
+      "cost_c1": 0,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_43",
+      "bus_id": "Bus92",
+      "bus_idx": 91,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 0,
+      "p_mw": 0,
+      "cost_c0": 0,
+      "cost_c1": 0,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_44",
+      "bus_id": "Bus99",
+      "bus_idx": 98,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 0,
+      "p_mw": 0,
+      "cost_c0": 0,
+      "cost_c1": 0,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_45",
+      "bus_id": "Bus100",
+      "bus_idx": 99,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 653,
+      "p_mw": 326.5,
+      "cost_c0": 0,
+      "cost_c1": 12.61217,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_46",
+      "bus_id": "Bus103",
+      "bus_idx": 102,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 108,
+      "p_mw": 54,
+      "cost_c0": 0,
+      "cost_c1": 28.649471,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_47",
+      "bus_id": "Bus104",
+      "bus_idx": 103,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 0,
+      "p_mw": 0,
+      "cost_c0": 0,
+      "cost_c1": 0,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_48",
+      "bus_id": "Bus105",
+      "bus_idx": 104,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 0,
+      "p_mw": 0,
+      "cost_c0": 0,
+      "cost_c1": 0,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_49",
+      "bus_id": "Bus107",
+      "bus_idx": 106,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 0,
+      "p_mw": 0,
+      "cost_c0": 0,
+      "cost_c1": 0,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_50",
+      "bus_id": "Bus110",
+      "bus_idx": 109,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 0,
+      "p_mw": 0,
+      "cost_c0": 0,
+      "cost_c1": 0,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_51",
+      "bus_id": "Bus111",
+      "bus_idx": 110,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 79,
+      "p_mw": 39.5,
+      "cost_c0": 0,
+      "cost_c1": 35.043401,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_52",
+      "bus_id": "Bus112",
+      "bus_idx": 111,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 0,
+      "p_mw": 0,
+      "cost_c0": 0,
+      "cost_c1": 0,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_53",
+      "bus_id": "Bus113",
+      "bus_idx": 112,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 0,
+      "p_mw": 0,
+      "cost_c0": 0,
+      "cost_c1": 0,
+      "cost_c2": 0,
+      "vm_pu": 1
+    },
+    {
+      "id": "Gen_thermal_54",
+      "bus_id": "Bus116",
+      "bus_idx": 115,
+      "type": "thermal",
+      "min_p_mw": 0,
+      "max_p_mw": 0,
+      "p_mw": 0,
+      "cost_c0": 0,
+      "cost_c1": 0,
+      "cost_c2": 0,
+      "vm_pu": 1
+    }
+  ],
+  "lines": [
+    {
+      "id": "Line_Bus1_Bus2",
+      "from_bus": "Bus1",
+      "to_bus": "Bus2",
+      "r_ohm": 5.770332,
+      "x_ohm": 19.024956,
+      "max_i_ka": 0.631738,
+      "capacity_mva": 151,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus1_Bus3",
+      "from_bus": "Bus1",
+      "to_bus": "Bus3",
+      "r_ohm": 2.456676,
+      "x_ohm": 8.074656,
+      "max_i_ka": 0.631738,
+      "capacity_mva": 151,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus4_Bus5",
+      "from_bus": "Bus4",
+      "to_bus": "Bus5",
+      "r_ohm": 0.3351744,
+      "x_ohm": 1.5197112,
+      "max_i_ka": 0.736331,
+      "capacity_mva": 176,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus3_Bus5",
+      "from_bus": "Bus3",
+      "to_bus": "Bus5",
+      "r_ohm": 4.589604,
+      "x_ohm": 20.56752,
+      "max_i_ka": 0.732147,
+      "capacity_mva": 175,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus5_Bus6",
+      "from_bus": "Bus5",
+      "to_bus": "Bus6",
+      "r_ohm": 2.266236,
+      "x_ohm": 10.28376,
+      "max_i_ka": 0.736331,
+      "capacity_mva": 176,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus6_Bus7",
+      "from_bus": "Bus6",
+      "to_bus": "Bus7",
+      "r_ohm": 0.8741196,
+      "x_ohm": 3.961152,
+      "max_i_ka": 0.736331,
+      "capacity_mva": 176,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus8_Bus9",
+      "from_bus": "Bus8",
+      "to_bus": "Bus9",
+      "r_ohm": 2.90421,
+      "x_ohm": 36.302625,
+      "max_i_ka": 1.189844,
+      "capacity_mva": 711,
+      "voltage_kv": 345
+    },
+    {
+      "id": "Line_Bus9_Bus10",
+      "from_bus": "Bus9",
+      "to_bus": "Bus10",
+      "r_ohm": 3.070845,
+      "x_ohm": 38.32605,
+      "max_i_ka": 1.18817,
+      "capacity_mva": 710,
+      "voltage_kv": 345
+    },
+    {
+      "id": "Line_Bus4_Bus11",
+      "from_bus": "Bus4",
+      "to_bus": "Bus11",
+      "r_ohm": 3.980196,
+      "x_ohm": 13.102272,
+      "max_i_ka": 0.631738,
+      "capacity_mva": 151,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus5_Bus11",
+      "from_bus": "Bus5",
+      "to_bus": "Bus11",
+      "r_ohm": 3.865932,
+      "x_ohm": 12.988008,
+      "max_i_ka": 0.635922,
+      "capacity_mva": 152,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus11_Bus12",
+      "from_bus": "Bus11",
+      "to_bus": "Bus12",
+      "r_ohm": 1.133118,
+      "x_ohm": 3.732624,
+      "max_i_ka": 0.631738,
+      "capacity_mva": 151,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus2_Bus12",
+      "from_bus": "Bus2",
+      "to_bus": "Bus12",
+      "r_ohm": 3.561228,
+      "x_ohm": 11.731104,
+      "max_i_ka": 0.631738,
+      "capacity_mva": 151,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus3_Bus12",
+      "from_bus": "Bus3",
+      "to_bus": "Bus12",
+      "r_ohm": 9.217296,
+      "x_ohm": 30.4704,
+      "max_i_ka": 0.631738,
+      "capacity_mva": 151,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus7_Bus12",
+      "from_bus": "Bus7",
+      "to_bus": "Bus12",
+      "r_ohm": 1.6415928,
+      "x_ohm": 6.47496,
+      "max_i_ka": 0.686126,
+      "capacity_mva": 164,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus11_Bus13",
+      "from_bus": "Bus11",
+      "to_bus": "Bus13",
+      "r_ohm": 4.23729,
+      "x_ohm": 13.921164,
+      "max_i_ka": 0.631738,
+      "capacity_mva": 151,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus12_Bus14",
+      "from_bus": "Bus12",
+      "to_bus": "Bus14",
+      "r_ohm": 4.09446,
+      "x_ohm": 13.464108,
+      "max_i_ka": 0.631738,
+      "capacity_mva": 151,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus13_Bus15",
+      "from_bus": "Bus13",
+      "to_bus": "Bus15",
+      "r_ohm": 14.168736,
+      "x_ohm": 46.543536,
+      "max_i_ka": 0.481125,
+      "capacity_mva": 115,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus14_Bus15",
+      "from_bus": "Bus14",
+      "to_bus": "Bus15",
+      "r_ohm": 11.33118,
+      "x_ohm": 37.1358,
+      "max_i_ka": 0.602452,
+      "capacity_mva": 144,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus12_Bus16",
+      "from_bus": "Bus12",
+      "to_bus": "Bus16",
+      "r_ohm": 4.037328,
+      "x_ohm": 15.882696,
+      "max_i_ka": 0.686126,
+      "capacity_mva": 164,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus15_Bus17",
+      "from_bus": "Bus15",
+      "to_bus": "Bus17",
+      "r_ohm": 2.513808,
+      "x_ohm": 8.322228,
+      "max_i_ka": 0.631738,
+      "capacity_mva": 151,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus16_Bus17",
+      "from_bus": "Bus16",
+      "to_bus": "Bus17",
+      "r_ohm": 8.645976,
+      "x_ohm": 34.298244,
+      "max_i_ka": 0.661024,
+      "capacity_mva": 158,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus17_Bus18",
+      "from_bus": "Bus17",
+      "to_bus": "Bus18",
+      "r_ohm": 2.342412,
+      "x_ohm": 9.61722,
+      "max_i_ka": 0.698677,
+      "capacity_mva": 167,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus18_Bus19",
+      "from_bus": "Bus18",
+      "to_bus": "Bus19",
+      "r_ohm": 2.1310236,
+      "x_ohm": 9.388692,
+      "max_i_ka": 0.72378,
+      "capacity_mva": 173,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus19_Bus20",
+      "from_bus": "Bus19",
+      "to_bus": "Bus20",
+      "r_ohm": 4.799088,
+      "x_ohm": 22.28148,
+      "max_i_ka": 0.744698,
+      "capacity_mva": 178,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus15_Bus19",
+      "from_bus": "Bus15",
+      "to_bus": "Bus19",
+      "r_ohm": 2.28528,
+      "x_ohm": 7.503336,
+      "max_i_ka": 0.631738,
+      "capacity_mva": 151,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus20_Bus21",
+      "from_bus": "Bus20",
+      "to_bus": "Bus21",
+      "r_ohm": 3.485052,
+      "x_ohm": 16.168356,
+      "max_i_ka": 0.740514,
+      "capacity_mva": 177,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus21_Bus22",
+      "from_bus": "Bus21",
+      "to_bus": "Bus22",
+      "r_ohm": 3.980196,
+      "x_ohm": 18.47268,
+      "max_i_ka": 0.744698,
+      "capacity_mva": 178,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus22_Bus23",
+      "from_bus": "Bus22",
+      "to_bus": "Bus23",
+      "r_ohm": 6.513048,
+      "x_ohm": 30.27996,
+      "max_i_ka": 0.744698,
+      "capacity_mva": 178,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus23_Bus24",
+      "from_bus": "Bus23",
+      "to_bus": "Bus24",
+      "r_ohm": 2.57094,
+      "x_ohm": 9.369648,
+      "max_i_ka": 0.661024,
+      "capacity_mva": 158,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus23_Bus25",
+      "from_bus": "Bus23",
+      "to_bus": "Bus25",
+      "r_ohm": 2.970864,
+      "x_ohm": 15.2352,
+      "max_i_ka": 0.778168,
+      "capacity_mva": 186,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus25_Bus27",
+      "from_bus": "Bus25",
+      "to_bus": "Bus27",
+      "r_ohm": 6.055992,
+      "x_ohm": 31.04172,
+      "max_i_ka": 0.740514,
+      "capacity_mva": 177,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus27_Bus28",
+      "from_bus": "Bus27",
+      "to_bus": "Bus28",
+      "r_ohm": 3.6431172,
+      "x_ohm": 16.28262,
+      "max_i_ka": 0.727963,
+      "capacity_mva": 174,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus28_Bus29",
+      "from_bus": "Bus28",
+      "to_bus": "Bus29",
+      "r_ohm": 4.513428,
+      "x_ohm": 17.958492,
+      "max_i_ka": 0.69031,
+      "capacity_mva": 165,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus8_Bus30",
+      "from_bus": "Bus8",
+      "to_bus": "Bus30",
+      "r_ohm": 5.1299775,
+      "x_ohm": 59.9886,
+      "max_i_ka": 0.970618,
+      "capacity_mva": 580,
+      "voltage_kv": 345
+    },
+    {
+      "id": "Line_Bus26_Bus30",
+      "from_bus": "Bus26",
+      "to_bus": "Bus30",
+      "r_ohm": 9.5100975,
+      "x_ohm": 102.3615,
+      "max_i_ka": 0.568983,
+      "capacity_mva": 340,
+      "voltage_kv": 345
+    },
+    {
+      "id": "Line_Bus17_Bus31",
+      "from_bus": "Bus17",
+      "to_bus": "Bus31",
+      "r_ohm": 9.026856,
+      "x_ohm": 29.765772,
+      "max_i_ka": 0.631738,
+      "capacity_mva": 151,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus29_Bus31",
+      "from_bus": "Bus29",
+      "to_bus": "Bus31",
+      "r_ohm": 2.056752,
+      "x_ohm": 6.303564,
+      "max_i_ka": 0.61082,
+      "capacity_mva": 146,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus23_Bus32",
+      "from_bus": "Bus23",
+      "to_bus": "Bus32",
+      "r_ohm": 6.036948,
+      "x_ohm": 21.957732,
+      "max_i_ka": 0.661024,
+      "capacity_mva": 158,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus31_Bus32",
+      "from_bus": "Bus31",
+      "to_bus": "Bus32",
+      "r_ohm": 5.675112,
+      "x_ohm": 18.75834,
+      "max_i_ka": 0.631738,
+      "capacity_mva": 151,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus27_Bus32",
+      "from_bus": "Bus27",
+      "to_bus": "Bus32",
+      "r_ohm": 4.361076,
+      "x_ohm": 14.37822,
+      "max_i_ka": 0.631738,
+      "capacity_mva": 151,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus15_Bus33",
+      "from_bus": "Bus15",
+      "to_bus": "Bus33",
+      "r_ohm": 7.23672,
+      "x_ohm": 23.690736,
+      "max_i_ka": 0.627555,
+      "capacity_mva": 150,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus19_Bus34",
+      "from_bus": "Bus19",
+      "to_bus": "Bus34",
+      "r_ohm": 14.321088,
+      "x_ohm": 47.03868,
+      "max_i_ka": 0.476942,
+      "capacity_mva": 114,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus35_Bus36",
+      "from_bus": "Bus35",
+      "to_bus": "Bus36",
+      "r_ohm": 0.4265856,
+      "x_ohm": 1.942488,
+      "max_i_ka": 0.736331,
+      "capacity_mva": 176,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus35_Bus37",
+      "from_bus": "Bus35",
+      "to_bus": "Bus37",
+      "r_ohm": 2.09484,
+      "x_ohm": 9.464868,
+      "max_i_ka": 0.732147,
+      "capacity_mva": 175,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus33_Bus37",
+      "from_bus": "Bus33",
+      "to_bus": "Bus37",
+      "r_ohm": 7.90326,
+      "x_ohm": 27.04248,
+      "max_i_ka": 0.644289,
+      "capacity_mva": 154,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus34_Bus36",
+      "from_bus": "Bus34",
+      "to_bus": "Bus36",
+      "r_ohm": 1.6587324,
+      "x_ohm": 5.103792,
+      "max_i_ka": 0.61082,
+      "capacity_mva": 146,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus34_Bus37",
+      "from_bus": "Bus34",
+      "to_bus": "Bus37",
+      "r_ohm": 0.4875264,
+      "x_ohm": 1.790136,
+      "max_i_ka": 0.665208,
+      "capacity_mva": 159,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus37_Bus39",
+      "from_bus": "Bus37",
+      "to_bus": "Bus39",
+      "r_ohm": 6.113124,
+      "x_ohm": 20.18664,
+      "max_i_ka": 0.631738,
+      "capacity_mva": 151,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus37_Bus40",
+      "from_bus": "Bus37",
+      "to_bus": "Bus40",
+      "r_ohm": 11.293092,
+      "x_ohm": 31.99392,
+      "max_i_ka": 0.585718,
+      "capacity_mva": 140,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus30_Bus38",
+      "from_bus": "Bus30",
+      "to_bus": "Bus38",
+      "r_ohm": 5.52276,
+      "x_ohm": 64.2735,
+      "max_i_ka": 0.907026,
+      "capacity_mva": 542,
+      "voltage_kv": 345
+    },
+    {
+      "id": "Line_Bus39_Bus40",
+      "from_bus": "Bus39",
+      "to_bus": "Bus40",
+      "r_ohm": 3.504096,
+      "x_ohm": 11.52162,
+      "max_i_ka": 0.631738,
+      "capacity_mva": 151,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus40_Bus41",
+      "from_bus": "Bus40",
+      "to_bus": "Bus41",
+      "r_ohm": 2.76138,
+      "x_ohm": 9.274428,
+      "max_i_ka": 0.635922,
+      "capacity_mva": 152,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus40_Bus42",
+      "from_bus": "Bus40",
+      "to_bus": "Bus42",
+      "r_ohm": 10.56942,
+      "x_ohm": 34.85052,
+      "max_i_ka": 0.631738,
+      "capacity_mva": 151,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus41_Bus42",
+      "from_bus": "Bus41",
+      "to_bus": "Bus42",
+      "r_ohm": 7.80804,
+      "x_ohm": 25.7094,
+      "max_i_ka": 0.631738,
+      "capacity_mva": 151,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus43_Bus44",
+      "from_bus": "Bus43",
+      "to_bus": "Bus44",
+      "r_ohm": 11.578752,
+      "x_ohm": 46.733976,
+      "max_i_ka": 0.489493,
+      "capacity_mva": 117,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus34_Bus43",
+      "from_bus": "Bus34",
+      "to_bus": "Bus43",
+      "r_ohm": 7.865172,
+      "x_ohm": 32.012964,
+      "max_i_ka": 0.698677,
+      "capacity_mva": 167,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus44_Bus45",
+      "from_bus": "Bus44",
+      "to_bus": "Bus45",
+      "r_ohm": 4.265856,
+      "x_ohm": 17.158644,
+      "max_i_ka": 0.694494,
+      "capacity_mva": 166,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus45_Bus46",
+      "from_bus": "Bus45",
+      "to_bus": "Bus46",
+      "r_ohm": 7.6176,
+      "x_ohm": 25.823664,
+      "max_i_ka": 0.640106,
+      "capacity_mva": 153,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus46_Bus47",
+      "from_bus": "Bus46",
+      "to_bus": "Bus47",
+      "r_ohm": 7.23672,
+      "x_ohm": 24.18588,
+      "max_i_ka": 0.635922,
+      "capacity_mva": 152,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus46_Bus48",
+      "from_bus": "Bus46",
+      "to_bus": "Bus48",
+      "r_ohm": 11.445444,
+      "x_ohm": 35.99316,
+      "max_i_ka": 0.619187,
+      "capacity_mva": 148,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus47_Bus49",
+      "from_bus": "Bus47",
+      "to_bus": "Bus49",
+      "r_ohm": 3.637404,
+      "x_ohm": 11.9025,
+      "max_i_ka": 0.627555,
+      "capacity_mva": 150,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus42_Bus49",
+      "from_bus": "Bus42",
+      "to_bus": "Bus49",
+      "r_ohm": 13.61646,
+      "x_ohm": 61.51212,
+      "max_i_ka": 0.372349,
+      "capacity_mva": 89,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus42_Bus49",
+      "from_bus": "Bus42",
+      "to_bus": "Bus49",
+      "r_ohm": 13.61646,
+      "x_ohm": 61.51212,
+      "max_i_ka": 0.372349,
+      "capacity_mva": 89,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus45_Bus49",
+      "from_bus": "Bus45",
+      "to_bus": "Bus49",
+      "r_ohm": 13.026096,
+      "x_ohm": 35.42184,
+      "max_i_ka": 0.57735,
+      "capacity_mva": 138,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus48_Bus49",
+      "from_bus": "Bus48",
+      "to_bus": "Bus49",
+      "r_ohm": 3.408876,
+      "x_ohm": 9.61722,
+      "max_i_ka": 0.585718,
+      "capacity_mva": 140,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus49_Bus50",
+      "from_bus": "Bus49",
+      "to_bus": "Bus50",
+      "r_ohm": 5.084748,
+      "x_ohm": 14.321088,
+      "max_i_ka": 0.585718,
+      "capacity_mva": 140,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus49_Bus51",
+      "from_bus": "Bus49",
+      "to_bus": "Bus51",
+      "r_ohm": 9.255384,
+      "x_ohm": 26.09028,
+      "max_i_ka": 0.585718,
+      "capacity_mva": 140,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus51_Bus52",
+      "from_bus": "Bus51",
+      "to_bus": "Bus52",
+      "r_ohm": 3.865932,
+      "x_ohm": 11.197872,
+      "max_i_ka": 0.594085,
+      "capacity_mva": 142,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus52_Bus53",
+      "from_bus": "Bus52",
+      "to_bus": "Bus53",
+      "r_ohm": 7.71282,
+      "x_ohm": 31.13694,
+      "max_i_ka": 0.694494,
+      "capacity_mva": 166,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus53_Bus54",
+      "from_bus": "Bus53",
+      "to_bus": "Bus54",
+      "r_ohm": 5.008572,
+      "x_ohm": 23.23368,
+      "max_i_ka": 0.740514,
+      "capacity_mva": 177,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus49_Bus54",
+      "from_bus": "Bus49",
+      "to_bus": "Bus54",
+      "r_ohm": 13.90212,
+      "x_ohm": 55.03716,
+      "max_i_ka": 0.414186,
+      "capacity_mva": 99,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus49_Bus54",
+      "from_bus": "Bus49",
+      "to_bus": "Bus54",
+      "r_ohm": 16.549236,
+      "x_ohm": 55.41804,
+      "max_i_ka": 0.405819,
+      "capacity_mva": 97,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus54_Bus55",
+      "from_bus": "Bus54",
+      "to_bus": "Bus55",
+      "r_ohm": 3.218436,
+      "x_ohm": 13.464108,
+      "max_i_ka": 0.707045,
+      "capacity_mva": 169,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus54_Bus56",
+      "from_bus": "Bus54",
+      "to_bus": "Bus56",
+      "r_ohm": 0.52371,
+      "x_ohm": 1.818702,
+      "max_i_ka": 0.648473,
+      "capacity_mva": 155,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus55_Bus56",
+      "from_bus": "Bus55",
+      "to_bus": "Bus56",
+      "r_ohm": 0.9293472,
+      "x_ohm": 2.875644,
+      "max_i_ka": 0.61082,
+      "capacity_mva": 146,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus56_Bus57",
+      "from_bus": "Bus56",
+      "to_bus": "Bus57",
+      "r_ohm": 6.532092,
+      "x_ohm": 18.396504,
+      "max_i_ka": 0.585718,
+      "capacity_mva": 140,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus50_Bus57",
+      "from_bus": "Bus50",
+      "to_bus": "Bus57",
+      "r_ohm": 9.026856,
+      "x_ohm": 25.51896,
+      "max_i_ka": 0.585718,
+      "capacity_mva": 140,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus56_Bus58",
+      "from_bus": "Bus56",
+      "to_bus": "Bus58",
+      "r_ohm": 6.532092,
+      "x_ohm": 18.396504,
+      "max_i_ka": 0.585718,
+      "capacity_mva": 140,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus51_Bus58",
+      "from_bus": "Bus51",
+      "to_bus": "Bus58",
+      "r_ohm": 4.85622,
+      "x_ohm": 13.692636,
+      "max_i_ka": 0.585718,
+      "capacity_mva": 140,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus54_Bus59",
+      "from_bus": "Bus54",
+      "to_bus": "Bus59",
+      "r_ohm": 9.579132,
+      "x_ohm": 43.667892,
+      "max_i_ka": 0.522962,
+      "capacity_mva": 125,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus56_Bus59",
+      "from_bus": "Bus56",
+      "to_bus": "Bus59",
+      "r_ohm": 15.7113,
+      "x_ohm": 47.80044,
+      "max_i_ka": 0.468574,
+      "capacity_mva": 112,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus56_Bus59",
+      "from_bus": "Bus56",
+      "to_bus": "Bus59",
+      "r_ohm": 15.292332,
+      "x_ohm": 45.51516,
+      "max_i_ka": 0.489493,
+      "capacity_mva": 117,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus55_Bus59",
+      "from_bus": "Bus55",
+      "to_bus": "Bus59",
+      "r_ohm": 9.0249516,
+      "x_ohm": 41.096952,
+      "max_i_ka": 0.556432,
+      "capacity_mva": 133,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus59_Bus60",
+      "from_bus": "Bus59",
+      "to_bus": "Bus60",
+      "r_ohm": 6.036948,
+      "x_ohm": 27.6138,
+      "max_i_ka": 0.736331,
+      "capacity_mva": 176,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus59_Bus61",
+      "from_bus": "Bus59",
+      "to_bus": "Bus61",
+      "r_ohm": 6.246432,
+      "x_ohm": 28.566,
+      "max_i_ka": 0.736331,
+      "capacity_mva": 176,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus60_Bus61",
+      "from_bus": "Bus60",
+      "to_bus": "Bus61",
+      "r_ohm": 0.5027616,
+      "x_ohm": 2.57094,
+      "max_i_ka": 0.778168,
+      "capacity_mva": 186,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus60_Bus62",
+      "from_bus": "Bus60",
+      "to_bus": "Bus62",
+      "r_ohm": 2.342412,
+      "x_ohm": 10.683684,
+      "max_i_ka": 0.736331,
+      "capacity_mva": 176,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus61_Bus62",
+      "from_bus": "Bus61",
+      "to_bus": "Bus62",
+      "r_ohm": 1.5692256,
+      "x_ohm": 7.160544,
+      "max_i_ka": 0.736331,
+      "capacity_mva": 176,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus63_Bus64",
+      "from_bus": "Bus63",
+      "to_bus": "Bus64",
+      "r_ohm": 2.04723,
+      "x_ohm": 23.805,
+      "max_i_ka": 1.14968,
+      "capacity_mva": 687,
+      "voltage_kv": 345
+    },
+    {
+      "id": "Line_Bus38_Bus65",
+      "from_bus": "Bus38",
+      "to_bus": "Bus65",
+      "r_ohm": 10.7241525,
+      "x_ohm": 117.35865,
+      "max_i_ka": 0.497023,
+      "capacity_mva": 297,
+      "voltage_kv": 345
+    },
+    {
+      "id": "Line_Bus64_Bus65",
+      "from_bus": "Bus64",
+      "to_bus": "Bus65",
+      "r_ohm": 3.2017725,
+      "x_ohm": 35.94555,
+      "max_i_ka": 1.129598,
+      "capacity_mva": 675,
+      "voltage_kv": 345
+    },
+    {
+      "id": "Line_Bus49_Bus66",
+      "from_bus": "Bus49",
+      "to_bus": "Bus66",
+      "r_ohm": 3.42792,
+      "x_ohm": 17.501436,
+      "max_i_ka": 0.778168,
+      "capacity_mva": 186,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus49_Bus66",
+      "from_bus": "Bus49",
+      "to_bus": "Bus66",
+      "r_ohm": 3.42792,
+      "x_ohm": 17.501436,
+      "max_i_ka": 0.778168,
+      "capacity_mva": 186,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus62_Bus66",
+      "from_bus": "Bus62",
+      "to_bus": "Bus66",
+      "r_ohm": 9.179208,
+      "x_ohm": 41.51592,
+      "max_i_ka": 0.552248,
+      "capacity_mva": 132,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus62_Bus67",
+      "from_bus": "Bus62",
+      "to_bus": "Bus67",
+      "r_ohm": 4.913352,
+      "x_ohm": 22.28148,
+      "max_i_ka": 0.736331,
+      "capacity_mva": 176,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus66_Bus67",
+      "from_bus": "Bus66",
+      "to_bus": "Bus67",
+      "r_ohm": 4.265856,
+      "x_ohm": 19.32966,
+      "max_i_ka": 0.736331,
+      "capacity_mva": 176,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus65_Bus68",
+      "from_bus": "Bus65",
+      "to_bus": "Bus68",
+      "r_ohm": 1.642545,
+      "x_ohm": 19.044,
+      "max_i_ka": 1.148007,
+      "capacity_mva": 686,
+      "voltage_kv": 345
+    },
+    {
+      "id": "Line_Bus47_Bus69",
+      "from_bus": "Bus47",
+      "to_bus": "Bus69",
+      "r_ohm": 16.073136,
+      "x_ohm": 52.904232,
+      "max_i_ka": 0.426737,
+      "capacity_mva": 102,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus49_Bus69",
+      "from_bus": "Bus49",
+      "to_bus": "Bus69",
+      "r_ohm": 18.75834,
+      "x_ohm": 61.70256,
+      "max_i_ka": 0.363982,
+      "capacity_mva": 87,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus69_Bus70",
+      "from_bus": "Bus69",
+      "to_bus": "Bus70",
+      "r_ohm": 5.7132,
+      "x_ohm": 24.18588,
+      "max_i_ka": 0.711229,
+      "capacity_mva": 170,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus24_Bus70",
+      "from_bus": "Bus24",
+      "to_bus": "Bus70",
+      "r_ohm": 0.4208724,
+      "x_ohm": 78.36606,
+      "max_i_ka": 0.301226,
+      "capacity_mva": 72,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus70_Bus71",
+      "from_bus": "Bus70",
+      "to_bus": "Bus71",
+      "r_ohm": 1.6796808,
+      "x_ohm": 6.76062,
+      "max_i_ka": 0.694494,
+      "capacity_mva": 166,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus24_Bus72",
+      "from_bus": "Bus24",
+      "to_bus": "Bus72",
+      "r_ohm": 9.293472,
+      "x_ohm": 37.32624,
+      "max_i_ka": 0.61082,
+      "capacity_mva": 146,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus71_Bus72",
+      "from_bus": "Bus71",
+      "to_bus": "Bus72",
+      "r_ohm": 8.493624,
+      "x_ohm": 34.2792,
+      "max_i_ka": 0.665208,
+      "capacity_mva": 159,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus71_Bus73",
+      "from_bus": "Bus71",
+      "to_bus": "Bus73",
+      "r_ohm": 1.6492104,
+      "x_ohm": 8.645976,
+      "max_i_ka": 0.786535,
+      "capacity_mva": 188,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus70_Bus74",
+      "from_bus": "Bus70",
+      "to_bus": "Bus74",
+      "r_ohm": 7.636644,
+      "x_ohm": 25.195212,
+      "max_i_ka": 0.631738,
+      "capacity_mva": 151,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus70_Bus75",
+      "from_bus": "Bus70",
+      "to_bus": "Bus75",
+      "r_ohm": 8.150832,
+      "x_ohm": 26.85204,
+      "max_i_ka": 0.631738,
+      "capacity_mva": 151,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus69_Bus75",
+      "from_bus": "Bus69",
+      "to_bus": "Bus75",
+      "r_ohm": 7.71282,
+      "x_ohm": 23.23368,
+      "max_i_ka": 0.606636,
+      "capacity_mva": 145,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus74_Bus75",
+      "from_bus": "Bus74",
+      "to_bus": "Bus75",
+      "r_ohm": 2.342412,
+      "x_ohm": 7.731864,
+      "max_i_ka": 0.631738,
+      "capacity_mva": 151,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus76_Bus77",
+      "from_bus": "Bus76",
+      "to_bus": "Bus77",
+      "r_ohm": 8.455536,
+      "x_ohm": 28.18512,
+      "max_i_ka": 0.635922,
+      "capacity_mva": 152,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus69_Bus77",
+      "from_bus": "Bus69",
+      "to_bus": "Bus77",
+      "r_ohm": 5.884596,
+      "x_ohm": 19.23444,
+      "max_i_ka": 0.627555,
+      "capacity_mva": 150,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus75_Bus77",
+      "from_bus": "Bus75",
+      "to_bus": "Bus77",
+      "r_ohm": 11.445444,
+      "x_ohm": 38.068956,
+      "max_i_ka": 0.589901,
+      "capacity_mva": 141,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus77_Bus78",
+      "from_bus": "Bus77",
+      "to_bus": "Bus78",
+      "r_ohm": 0.7160544,
+      "x_ohm": 2.361456,
+      "max_i_ka": 0.631738,
+      "capacity_mva": 151,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus78_Bus79",
+      "from_bus": "Bus78",
+      "to_bus": "Bus79",
+      "r_ohm": 1.0398024,
+      "x_ohm": 4.646736,
+      "max_i_ka": 0.727963,
+      "capacity_mva": 174,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus77_Bus80",
+      "from_bus": "Bus77",
+      "to_bus": "Bus80",
+      "r_ohm": 3.23748,
+      "x_ohm": 9.23634,
+      "max_i_ka": 0.589901,
+      "capacity_mva": 141,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus77_Bus80",
+      "from_bus": "Bus77",
+      "to_bus": "Bus80",
+      "r_ohm": 5.598936,
+      "x_ohm": 19.9962,
+      "max_i_ka": 0.656841,
+      "capacity_mva": 157,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus79_Bus80",
+      "from_bus": "Bus79",
+      "to_bus": "Bus80",
+      "r_ohm": 2.970864,
+      "x_ohm": 13.406976,
+      "max_i_ka": 0.732147,
+      "capacity_mva": 175,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus68_Bus81",
+      "from_bus": "Bus68",
+      "to_bus": "Bus81",
+      "r_ohm": 2.0829375,
+      "x_ohm": 24.04305,
+      "max_i_ka": 1.14466,
+      "capacity_mva": 684,
+      "voltage_kv": 345
+    },
+    {
+      "id": "Line_Bus77_Bus82",
+      "from_bus": "Bus77",
+      "to_bus": "Bus82",
+      "r_ohm": 5.675112,
+      "x_ohm": 16.244532,
+      "max_i_ka": 0.589901,
+      "capacity_mva": 141,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus82_Bus83",
+      "from_bus": "Bus82",
+      "to_bus": "Bus83",
+      "r_ohm": 2.132928,
+      "x_ohm": 6.979626,
+      "max_i_ka": 0.627555,
+      "capacity_mva": 150,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus83_Bus84",
+      "from_bus": "Bus83",
+      "to_bus": "Bus84",
+      "r_ohm": 11.9025,
+      "x_ohm": 25.13808,
+      "max_i_ka": 0.510411,
+      "capacity_mva": 122,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus83_Bus85",
+      "from_bus": "Bus83",
+      "to_bus": "Bus85",
+      "r_ohm": 8.18892,
+      "x_ohm": 28.18512,
+      "max_i_ka": 0.644289,
+      "capacity_mva": 154,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus84_Bus85",
+      "from_bus": "Bus84",
+      "to_bus": "Bus85",
+      "r_ohm": 5.751288,
+      "x_ohm": 12.207204,
+      "max_i_ka": 0.510411,
+      "capacity_mva": 122,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus85_Bus86",
+      "from_bus": "Bus85",
+      "to_bus": "Bus86",
+      "r_ohm": 6.6654,
+      "x_ohm": 23.42412,
+      "max_i_ka": 0.652657,
+      "capacity_mva": 156,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus85_Bus88",
+      "from_bus": "Bus85",
+      "to_bus": "Bus88",
+      "r_ohm": 3.8088,
+      "x_ohm": 19.42488,
+      "max_i_ka": 0.778168,
+      "capacity_mva": 186,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus85_Bus89",
+      "from_bus": "Bus85",
+      "to_bus": "Bus89",
+      "r_ohm": 4.551516,
+      "x_ohm": 32.94612,
+      "max_i_ka": 0.702861,
+      "capacity_mva": 168,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus88_Bus89",
+      "from_bus": "Bus88",
+      "to_bus": "Bus89",
+      "r_ohm": 2.647116,
+      "x_ohm": 13.559328,
+      "max_i_ka": 0.778168,
+      "capacity_mva": 186,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus89_Bus90",
+      "from_bus": "Bus89",
+      "to_bus": "Bus90",
+      "r_ohm": 9.864792,
+      "x_ohm": 35.80272,
+      "max_i_ka": 0.631738,
+      "capacity_mva": 151,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus89_Bus90",
+      "from_bus": "Bus89",
+      "to_bus": "Bus90",
+      "r_ohm": 4.532472,
+      "x_ohm": 18.986868,
+      "max_i_ka": 0.707045,
+      "capacity_mva": 169,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus90_Bus91",
+      "from_bus": "Bus90",
+      "to_bus": "Bus91",
+      "r_ohm": 4.837176,
+      "x_ohm": 15.920784,
+      "max_i_ka": 0.631738,
+      "capacity_mva": 151,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus89_Bus92",
+      "from_bus": "Bus89",
+      "to_bus": "Bus92",
+      "r_ohm": 1.885356,
+      "x_ohm": 9.61722,
+      "max_i_ka": 0.778168,
+      "capacity_mva": 186,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus89_Bus92",
+      "from_bus": "Bus89",
+      "to_bus": "Bus92",
+      "r_ohm": 7.484292,
+      "x_ohm": 30.108564,
+      "max_i_ka": 0.694494,
+      "capacity_mva": 166,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus91_Bus92",
+      "from_bus": "Bus91",
+      "to_bus": "Bus92",
+      "r_ohm": 7.370028,
+      "x_ohm": 24.223968,
+      "max_i_ka": 0.631738,
+      "capacity_mva": 151,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus92_Bus93",
+      "from_bus": "Bus92",
+      "to_bus": "Bus93",
+      "r_ohm": 4.913352,
+      "x_ohm": 16.149312,
+      "max_i_ka": 0.631738,
+      "capacity_mva": 151,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus92_Bus94",
+      "from_bus": "Bus92",
+      "to_bus": "Bus94",
+      "r_ohm": 9.160164,
+      "x_ohm": 30.08952,
+      "max_i_ka": 0.631738,
+      "capacity_mva": 151,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus93_Bus94",
+      "from_bus": "Bus93",
+      "to_bus": "Bus94",
+      "r_ohm": 4.246812,
+      "x_ohm": 13.940208,
+      "max_i_ka": 0.631738,
+      "capacity_mva": 151,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus94_Bus95",
+      "from_bus": "Bus94",
+      "to_bus": "Bus95",
+      "r_ohm": 2.513808,
+      "x_ohm": 8.265096,
+      "max_i_ka": 0.631738,
+      "capacity_mva": 151,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus80_Bus96",
+      "from_bus": "Bus80",
+      "to_bus": "Bus96",
+      "r_ohm": 6.779664,
+      "x_ohm": 34.66008,
+      "max_i_ka": 0.665208,
+      "capacity_mva": 159,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus82_Bus96",
+      "from_bus": "Bus82",
+      "to_bus": "Bus96",
+      "r_ohm": 3.085128,
+      "x_ohm": 10.09332,
+      "max_i_ka": 0.627555,
+      "capacity_mva": 150,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus94_Bus96",
+      "from_bus": "Bus94",
+      "to_bus": "Bus96",
+      "r_ohm": 5.122836,
+      "x_ohm": 16.549236,
+      "max_i_ka": 0.623371,
+      "capacity_mva": 149,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus80_Bus97",
+      "from_bus": "Bus80",
+      "to_bus": "Bus97",
+      "r_ohm": 3.485052,
+      "x_ohm": 17.787096,
+      "max_i_ka": 0.778168,
+      "capacity_mva": 186,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus80_Bus98",
+      "from_bus": "Bus80",
+      "to_bus": "Bus98",
+      "r_ohm": 4.532472,
+      "x_ohm": 20.56752,
+      "max_i_ka": 0.736331,
+      "capacity_mva": 176,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus80_Bus99",
+      "from_bus": "Bus80",
+      "to_bus": "Bus99",
+      "r_ohm": 8.645976,
+      "x_ohm": 39.23064,
+      "max_i_ka": 0.585718,
+      "capacity_mva": 140,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus92_Bus100",
+      "from_bus": "Bus92",
+      "to_bus": "Bus100",
+      "r_ohm": 12.340512,
+      "x_ohm": 56.1798,
+      "max_i_ka": 0.410002,
+      "capacity_mva": 98,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus94_Bus100",
+      "from_bus": "Bus94",
+      "to_bus": "Bus100",
+      "r_ohm": 3.389832,
+      "x_ohm": 11.04552,
+      "max_i_ka": 0.627555,
+      "capacity_mva": 150,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus95_Bus96",
+      "from_bus": "Bus95",
+      "to_bus": "Bus96",
+      "r_ohm": 3.256524,
+      "x_ohm": 10.417068,
+      "max_i_ka": 0.623371,
+      "capacity_mva": 149,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus96_Bus97",
+      "from_bus": "Bus96",
+      "to_bus": "Bus97",
+      "r_ohm": 3.294612,
+      "x_ohm": 16.85394,
+      "max_i_ka": 0.778168,
+      "capacity_mva": 186,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus98_Bus100",
+      "from_bus": "Bus98",
+      "to_bus": "Bus100",
+      "r_ohm": 7.560468,
+      "x_ohm": 34.08876,
+      "max_i_ka": 0.669392,
+      "capacity_mva": 160,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus99_Bus100",
+      "from_bus": "Bus99",
+      "to_bus": "Bus100",
+      "r_ohm": 3.42792,
+      "x_ohm": 15.482772,
+      "max_i_ka": 0.732147,
+      "capacity_mva": 175,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus100_Bus101",
+      "from_bus": "Bus100",
+      "to_bus": "Bus101",
+      "r_ohm": 5.275188,
+      "x_ohm": 24.033528,
+      "max_i_ka": 0.736331,
+      "capacity_mva": 176,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus92_Bus102",
+      "from_bus": "Bus92",
+      "to_bus": "Bus102",
+      "r_ohm": 2.342412,
+      "x_ohm": 10.645596,
+      "max_i_ka": 0.736331,
+      "capacity_mva": 176,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus101_Bus102",
+      "from_bus": "Bus101",
+      "to_bus": "Bus102",
+      "r_ohm": 4.684824,
+      "x_ohm": 21.32928,
+      "max_i_ka": 0.736331,
+      "capacity_mva": 176,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus100_Bus103",
+      "from_bus": "Bus100",
+      "to_bus": "Bus103",
+      "r_ohm": 3.04704,
+      "x_ohm": 9.9981,
+      "max_i_ka": 0.631738,
+      "capacity_mva": 151,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus100_Bus104",
+      "from_bus": "Bus100",
+      "to_bus": "Bus104",
+      "r_ohm": 8.588844,
+      "x_ohm": 38.84976,
+      "max_i_ka": 0.589901,
+      "capacity_mva": 141,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus103_Bus104",
+      "from_bus": "Bus103",
+      "to_bus": "Bus104",
+      "r_ohm": 8.874504,
+      "x_ohm": 30.165696,
+      "max_i_ka": 0.640106,
+      "capacity_mva": 153,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus103_Bus105",
+      "from_bus": "Bus103",
+      "to_bus": "Bus105",
+      "r_ohm": 10.18854,
+      "x_ohm": 30.9465,
+      "max_i_ka": 0.606636,
+      "capacity_mva": 145,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus100_Bus106",
+      "from_bus": "Bus100",
+      "to_bus": "Bus106",
+      "r_ohm": 11.52162,
+      "x_ohm": 43.61076,
+      "max_i_ka": 0.518779,
+      "capacity_mva": 124,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus104_Bus105",
+      "from_bus": "Bus104",
+      "to_bus": "Bus105",
+      "r_ohm": 1.8929736,
+      "x_ohm": 7.198632,
+      "max_i_ka": 0.673575,
+      "capacity_mva": 161,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus105_Bus106",
+      "from_bus": "Bus105",
+      "to_bus": "Bus106",
+      "r_ohm": 2.66616,
+      "x_ohm": 10.417068,
+      "max_i_ka": 0.686126,
+      "capacity_mva": 164,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus105_Bus107",
+      "from_bus": "Bus105",
+      "to_bus": "Bus107",
+      "r_ohm": 10.09332,
+      "x_ohm": 34.85052,
+      "max_i_ka": 0.644289,
+      "capacity_mva": 154,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus105_Bus108",
+      "from_bus": "Bus105",
+      "to_bus": "Bus108",
+      "r_ohm": 4.970484,
+      "x_ohm": 13.387932,
+      "max_i_ka": 0.573167,
+      "capacity_mva": 137,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus106_Bus107",
+      "from_bus": "Bus106",
+      "to_bus": "Bus107",
+      "r_ohm": 10.09332,
+      "x_ohm": 34.85052,
+      "max_i_ka": 0.644289,
+      "capacity_mva": 154,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus108_Bus109",
+      "from_bus": "Bus108",
+      "to_bus": "Bus109",
+      "r_ohm": 1.99962,
+      "x_ohm": 5.484672,
+      "max_i_ka": 0.57735,
+      "capacity_mva": 138,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus103_Bus110",
+      "from_bus": "Bus103",
+      "to_bus": "Bus110",
+      "r_ohm": 7.4385864,
+      "x_ohm": 34.526772,
+      "max_i_ka": 0.665208,
+      "capacity_mva": 159,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus109_Bus110",
+      "from_bus": "Bus109",
+      "to_bus": "Bus110",
+      "r_ohm": 5.294232,
+      "x_ohm": 14.511528,
+      "max_i_ka": 0.57735,
+      "capacity_mva": 138,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus110_Bus111",
+      "from_bus": "Bus110",
+      "to_bus": "Bus111",
+      "r_ohm": 4.18968,
+      "x_ohm": 14.37822,
+      "max_i_ka": 0.644289,
+      "capacity_mva": 154,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus110_Bus112",
+      "from_bus": "Bus110",
+      "to_bus": "Bus112",
+      "r_ohm": 4.703868,
+      "x_ohm": 12.18816,
+      "max_i_ka": 0.564799,
+      "capacity_mva": 135,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus17_Bus113",
+      "from_bus": "Bus17",
+      "to_bus": "Bus113",
+      "r_ohm": 1.7387172,
+      "x_ohm": 5.732244,
+      "max_i_ka": 0.631738,
+      "capacity_mva": 151,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus32_Bus113",
+      "from_bus": "Bus32",
+      "to_bus": "Bus113",
+      "r_ohm": 11.71206,
+      "x_ohm": 38.65932,
+      "max_i_ka": 0.581534,
+      "capacity_mva": 139,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus32_Bus114",
+      "from_bus": "Bus32",
+      "to_bus": "Bus114",
+      "r_ohm": 2.57094,
+      "x_ohm": 11.654928,
+      "max_i_ka": 0.736331,
+      "capacity_mva": 176,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus27_Bus115",
+      "from_bus": "Bus27",
+      "to_bus": "Bus115",
+      "r_ohm": 3.123216,
+      "x_ohm": 14.111604,
+      "max_i_ka": 0.732147,
+      "capacity_mva": 175,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus114_Bus115",
+      "from_bus": "Bus114",
+      "to_bus": "Bus115",
+      "r_ohm": 0.438012,
+      "x_ohm": 1.980576,
+      "max_i_ka": 0.732147,
+      "capacity_mva": 175,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus12_Bus117",
+      "from_bus": "Bus12",
+      "to_bus": "Bus117",
+      "r_ohm": 6.265476,
+      "x_ohm": 26.6616,
+      "max_i_ka": 0.711229,
+      "capacity_mva": 170,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus75_Bus118",
+      "from_bus": "Bus75",
+      "to_bus": "Bus118",
+      "r_ohm": 2.76138,
+      "x_ohm": 9.160164,
+      "max_i_ka": 0.631738,
+      "capacity_mva": 151,
+      "voltage_kv": 138
+    },
+    {
+      "id": "Line_Bus76_Bus118",
+      "from_bus": "Bus76",
+      "to_bus": "Bus118",
+      "r_ohm": 3.123216,
+      "x_ohm": 10.359936,
+      "max_i_ka": 0.631738,
+      "capacity_mva": 151,
+      "voltage_kv": 138
+    }
+  ],
+  "transformers": [
+    {
+      "id": "Trafo_Bus8_Bus5",
+      "from_bus": "Bus8",
+      "to_bus": "Bus5",
+      "sn_mva": 1099,
+      "capacity_mva": 1099,
+      "vk_percent": 29.3433,
+      "vkr_percent": 0
+    },
+    {
+      "id": "Trafo_Bus26_Bus25",
+      "from_bus": "Bus26",
+      "to_bus": "Bus25",
+      "sn_mva": 768,
+      "capacity_mva": 768,
+      "vk_percent": 29.3376,
+      "vkr_percent": 0
+    },
+    {
+      "id": "Trafo_Bus30_Bus17",
+      "from_bus": "Bus30",
+      "to_bus": "Bus17",
+      "sn_mva": 756,
+      "capacity_mva": 756,
+      "vk_percent": 29.3328,
+      "vkr_percent": 0
+    },
+    {
+      "id": "Trafo_Bus38_Bus37",
+      "from_bus": "Bus38",
+      "to_bus": "Bus37",
+      "sn_mva": 783,
+      "capacity_mva": 783,
+      "vk_percent": 29.3625,
+      "vkr_percent": 0
+    },
+    {
+      "id": "Trafo_Bus63_Bus59",
+      "from_bus": "Bus63",
+      "to_bus": "Bus59",
+      "sn_mva": 760,
+      "capacity_mva": 760,
+      "vk_percent": 29.336,
+      "vkr_percent": 0
+    },
+    {
+      "id": "Trafo_Bus64_Bus61",
+      "from_bus": "Bus64",
+      "to_bus": "Bus61",
+      "sn_mva": 1095,
+      "capacity_mva": 1095,
+      "vk_percent": 29.346,
+      "vkr_percent": 0
+    },
+    {
+      "id": "Trafo_Bus65_Bus66",
+      "from_bus": "Bus65",
+      "to_bus": "Bus66",
+      "sn_mva": 793,
+      "capacity_mva": 793,
+      "vk_percent": 29.341,
+      "vkr_percent": 0
+    },
+    {
+      "id": "Trafo_Bus68_Bus69",
+      "from_bus": "Bus68",
+      "to_bus": "Bus69",
+      "sn_mva": 793,
+      "capacity_mva": 793,
+      "vk_percent": 29.341,
+      "vkr_percent": 0
+    },
+    {
+      "id": "Trafo_Bus81_Bus80",
+      "from_bus": "Bus81",
+      "to_bus": "Bus80",
+      "sn_mva": 793,
+      "capacity_mva": 793,
+      "vk_percent": 29.341,
+      "vkr_percent": 0
+    },
+    {
+      "id": "Trafo_Bus87_Bus86",
+      "from_bus": "Bus87",
+      "to_bus": "Bus86",
+      "sn_mva": 141,
+      "capacity_mva": 141,
+      "vk_percent": 29.514004,
+      "vkr_percent": 3.98748
+    },
+    {
+      "id": "Trafo_Bus68_Bus116",
+      "from_bus": "Bus68",
+      "to_bus": "Bus116",
+      "sn_mva": 7218,
+      "capacity_mva": 7218,
+      "vk_percent": 29.335732,
+      "vkr_percent": 2.45412
+    }
+  ],
+  "loads": [
+    {
+      "id": "Load_1",
+      "bus_id": "Bus1",
+      "p_mw": 51,
+      "q_mvar": 27
+    },
+    {
+      "id": "Load_2",
+      "bus_id": "Bus2",
+      "p_mw": 20,
+      "q_mvar": 9
+    },
+    {
+      "id": "Load_3",
+      "bus_id": "Bus3",
+      "p_mw": 39,
+      "q_mvar": 10
+    },
+    {
+      "id": "Load_4",
+      "bus_id": "Bus4",
+      "p_mw": 39,
+      "q_mvar": 12
+    },
+    {
+      "id": "Load_5",
+      "bus_id": "Bus6",
+      "p_mw": 52,
+      "q_mvar": 22
+    },
+    {
+      "id": "Load_6",
+      "bus_id": "Bus7",
+      "p_mw": 19,
+      "q_mvar": 2
+    },
+    {
+      "id": "Load_7",
+      "bus_id": "Bus8",
+      "p_mw": 28,
+      "q_mvar": 0
+    },
+    {
+      "id": "Load_8",
+      "bus_id": "Bus11",
+      "p_mw": 70,
+      "q_mvar": 23
+    },
+    {
+      "id": "Load_9",
+      "bus_id": "Bus12",
+      "p_mw": 47,
+      "q_mvar": 10
+    },
+    {
+      "id": "Load_10",
+      "bus_id": "Bus13",
+      "p_mw": 34,
+      "q_mvar": 16
+    },
+    {
+      "id": "Load_11",
+      "bus_id": "Bus14",
+      "p_mw": 14,
+      "q_mvar": 1
+    },
+    {
+      "id": "Load_12",
+      "bus_id": "Bus15",
+      "p_mw": 90,
+      "q_mvar": 30
+    },
+    {
+      "id": "Load_13",
+      "bus_id": "Bus16",
+      "p_mw": 25,
+      "q_mvar": 10
+    },
+    {
+      "id": "Load_14",
+      "bus_id": "Bus17",
+      "p_mw": 11,
+      "q_mvar": 3
+    },
+    {
+      "id": "Load_15",
+      "bus_id": "Bus18",
+      "p_mw": 60,
+      "q_mvar": 34
+    },
+    {
+      "id": "Load_16",
+      "bus_id": "Bus19",
+      "p_mw": 45,
+      "q_mvar": 25
+    },
+    {
+      "id": "Load_17",
+      "bus_id": "Bus20",
+      "p_mw": 18,
+      "q_mvar": 3
+    },
+    {
+      "id": "Load_18",
+      "bus_id": "Bus21",
+      "p_mw": 14,
+      "q_mvar": 8
+    },
+    {
+      "id": "Load_19",
+      "bus_id": "Bus22",
+      "p_mw": 10,
+      "q_mvar": 5
+    },
+    {
+      "id": "Load_20",
+      "bus_id": "Bus23",
+      "p_mw": 7,
+      "q_mvar": 3
+    },
+    {
+      "id": "Load_21",
+      "bus_id": "Bus24",
+      "p_mw": 13,
+      "q_mvar": 0
+    },
+    {
+      "id": "Load_22",
+      "bus_id": "Bus27",
+      "p_mw": 71,
+      "q_mvar": 13
+    },
+    {
+      "id": "Load_23",
+      "bus_id": "Bus28",
+      "p_mw": 17,
+      "q_mvar": 7
+    },
+    {
+      "id": "Load_24",
+      "bus_id": "Bus29",
+      "p_mw": 24,
+      "q_mvar": 4
+    },
+    {
+      "id": "Load_25",
+      "bus_id": "Bus31",
+      "p_mw": 43,
+      "q_mvar": 27
+    },
+    {
+      "id": "Load_26",
+      "bus_id": "Bus32",
+      "p_mw": 59,
+      "q_mvar": 23
+    },
+    {
+      "id": "Load_27",
+      "bus_id": "Bus33",
+      "p_mw": 23,
+      "q_mvar": 9
+    },
+    {
+      "id": "Load_28",
+      "bus_id": "Bus34",
+      "p_mw": 59,
+      "q_mvar": 26
+    },
+    {
+      "id": "Load_29",
+      "bus_id": "Bus35",
+      "p_mw": 33,
+      "q_mvar": 9
+    },
+    {
+      "id": "Load_30",
+      "bus_id": "Bus36",
+      "p_mw": 31,
+      "q_mvar": 17
+    },
+    {
+      "id": "Load_31",
+      "bus_id": "Bus39",
+      "p_mw": 27,
+      "q_mvar": 11
+    },
+    {
+      "id": "Load_32",
+      "bus_id": "Bus40",
+      "p_mw": 66,
+      "q_mvar": 23
+    },
+    {
+      "id": "Load_33",
+      "bus_id": "Bus41",
+      "p_mw": 37,
+      "q_mvar": 10
+    },
+    {
+      "id": "Load_34",
+      "bus_id": "Bus42",
+      "p_mw": 96,
+      "q_mvar": 23
+    },
+    {
+      "id": "Load_35",
+      "bus_id": "Bus43",
+      "p_mw": 18,
+      "q_mvar": 7
+    },
+    {
+      "id": "Load_36",
+      "bus_id": "Bus44",
+      "p_mw": 16,
+      "q_mvar": 8
+    },
+    {
+      "id": "Load_37",
+      "bus_id": "Bus45",
+      "p_mw": 53,
+      "q_mvar": 22
+    },
+    {
+      "id": "Load_38",
+      "bus_id": "Bus46",
+      "p_mw": 28,
+      "q_mvar": 10
+    },
+    {
+      "id": "Load_39",
+      "bus_id": "Bus47",
+      "p_mw": 34,
+      "q_mvar": 0
+    },
+    {
+      "id": "Load_40",
+      "bus_id": "Bus48",
+      "p_mw": 20,
+      "q_mvar": 11
+    },
+    {
+      "id": "Load_41",
+      "bus_id": "Bus49",
+      "p_mw": 87,
+      "q_mvar": 30
+    },
+    {
+      "id": "Load_42",
+      "bus_id": "Bus50",
+      "p_mw": 17,
+      "q_mvar": 4
+    },
+    {
+      "id": "Load_43",
+      "bus_id": "Bus51",
+      "p_mw": 17,
+      "q_mvar": 8
+    },
+    {
+      "id": "Load_44",
+      "bus_id": "Bus52",
+      "p_mw": 18,
+      "q_mvar": 5
+    },
+    {
+      "id": "Load_45",
+      "bus_id": "Bus53",
+      "p_mw": 23,
+      "q_mvar": 11
+    },
+    {
+      "id": "Load_46",
+      "bus_id": "Bus54",
+      "p_mw": 113,
+      "q_mvar": 32
+    },
+    {
+      "id": "Load_47",
+      "bus_id": "Bus55",
+      "p_mw": 63,
+      "q_mvar": 22
+    },
+    {
+      "id": "Load_48",
+      "bus_id": "Bus56",
+      "p_mw": 84,
+      "q_mvar": 18
+    },
+    {
+      "id": "Load_49",
+      "bus_id": "Bus57",
+      "p_mw": 12,
+      "q_mvar": 3
+    },
+    {
+      "id": "Load_50",
+      "bus_id": "Bus58",
+      "p_mw": 12,
+      "q_mvar": 3
+    },
+    {
+      "id": "Load_51",
+      "bus_id": "Bus59",
+      "p_mw": 277,
+      "q_mvar": 113
+    },
+    {
+      "id": "Load_52",
+      "bus_id": "Bus60",
+      "p_mw": 78,
+      "q_mvar": 3
+    },
+    {
+      "id": "Load_53",
+      "bus_id": "Bus62",
+      "p_mw": 77,
+      "q_mvar": 14
+    },
+    {
+      "id": "Load_54",
+      "bus_id": "Bus66",
+      "p_mw": 39,
+      "q_mvar": 18
+    },
+    {
+      "id": "Load_55",
+      "bus_id": "Bus67",
+      "p_mw": 28,
+      "q_mvar": 7
+    },
+    {
+      "id": "Load_56",
+      "bus_id": "Bus70",
+      "p_mw": 66,
+      "q_mvar": 20
+    },
+    {
+      "id": "Load_57",
+      "bus_id": "Bus72",
+      "p_mw": 12,
+      "q_mvar": 0
+    },
+    {
+      "id": "Load_58",
+      "bus_id": "Bus73",
+      "p_mw": 6,
+      "q_mvar": 0
+    },
+    {
+      "id": "Load_59",
+      "bus_id": "Bus74",
+      "p_mw": 68,
+      "q_mvar": 27
+    },
+    {
+      "id": "Load_60",
+      "bus_id": "Bus75",
+      "p_mw": 47,
+      "q_mvar": 11
+    },
+    {
+      "id": "Load_61",
+      "bus_id": "Bus76",
+      "p_mw": 68,
+      "q_mvar": 36
+    },
+    {
+      "id": "Load_62",
+      "bus_id": "Bus77",
+      "p_mw": 61,
+      "q_mvar": 28
+    },
+    {
+      "id": "Load_63",
+      "bus_id": "Bus78",
+      "p_mw": 71,
+      "q_mvar": 26
+    },
+    {
+      "id": "Load_64",
+      "bus_id": "Bus79",
+      "p_mw": 39,
+      "q_mvar": 32
+    },
+    {
+      "id": "Load_65",
+      "bus_id": "Bus80",
+      "p_mw": 130,
+      "q_mvar": 26
+    },
+    {
+      "id": "Load_66",
+      "bus_id": "Bus82",
+      "p_mw": 54,
+      "q_mvar": 27
+    },
+    {
+      "id": "Load_67",
+      "bus_id": "Bus83",
+      "p_mw": 20,
+      "q_mvar": 10
+    },
+    {
+      "id": "Load_68",
+      "bus_id": "Bus84",
+      "p_mw": 11,
+      "q_mvar": 7
+    },
+    {
+      "id": "Load_69",
+      "bus_id": "Bus85",
+      "p_mw": 24,
+      "q_mvar": 15
+    },
+    {
+      "id": "Load_70",
+      "bus_id": "Bus86",
+      "p_mw": 21,
+      "q_mvar": 10
+    },
+    {
+      "id": "Load_71",
+      "bus_id": "Bus88",
+      "p_mw": 48,
+      "q_mvar": 10
+    },
+    {
+      "id": "Load_72",
+      "bus_id": "Bus90",
+      "p_mw": 163,
+      "q_mvar": 42
+    },
+    {
+      "id": "Load_73",
+      "bus_id": "Bus91",
+      "p_mw": 10,
+      "q_mvar": 0
+    },
+    {
+      "id": "Load_74",
+      "bus_id": "Bus92",
+      "p_mw": 65,
+      "q_mvar": 10
+    },
+    {
+      "id": "Load_75",
+      "bus_id": "Bus93",
+      "p_mw": 12,
+      "q_mvar": 7
+    },
+    {
+      "id": "Load_76",
+      "bus_id": "Bus94",
+      "p_mw": 30,
+      "q_mvar": 16
+    },
+    {
+      "id": "Load_77",
+      "bus_id": "Bus95",
+      "p_mw": 42,
+      "q_mvar": 31
+    },
+    {
+      "id": "Load_78",
+      "bus_id": "Bus96",
+      "p_mw": 38,
+      "q_mvar": 15
+    },
+    {
+      "id": "Load_79",
+      "bus_id": "Bus97",
+      "p_mw": 15,
+      "q_mvar": 9
+    },
+    {
+      "id": "Load_80",
+      "bus_id": "Bus98",
+      "p_mw": 34,
+      "q_mvar": 8
+    },
+    {
+      "id": "Load_81",
+      "bus_id": "Bus99",
+      "p_mw": 42,
+      "q_mvar": 0
+    },
+    {
+      "id": "Load_82",
+      "bus_id": "Bus100",
+      "p_mw": 37,
+      "q_mvar": 18
+    },
+    {
+      "id": "Load_83",
+      "bus_id": "Bus101",
+      "p_mw": 22,
+      "q_mvar": 15
+    },
+    {
+      "id": "Load_84",
+      "bus_id": "Bus102",
+      "p_mw": 5,
+      "q_mvar": 3
+    },
+    {
+      "id": "Load_85",
+      "bus_id": "Bus103",
+      "p_mw": 23,
+      "q_mvar": 16
+    },
+    {
+      "id": "Load_86",
+      "bus_id": "Bus104",
+      "p_mw": 38,
+      "q_mvar": 25
+    },
+    {
+      "id": "Load_87",
+      "bus_id": "Bus105",
+      "p_mw": 31,
+      "q_mvar": 26
+    },
+    {
+      "id": "Load_88",
+      "bus_id": "Bus106",
+      "p_mw": 43,
+      "q_mvar": 16
+    },
+    {
+      "id": "Load_89",
+      "bus_id": "Bus107",
+      "p_mw": 50,
+      "q_mvar": 12
+    },
+    {
+      "id": "Load_90",
+      "bus_id": "Bus108",
+      "p_mw": 2,
+      "q_mvar": 1
+    },
+    {
+      "id": "Load_91",
+      "bus_id": "Bus109",
+      "p_mw": 8,
+      "q_mvar": 3
+    },
+    {
+      "id": "Load_92",
+      "bus_id": "Bus110",
+      "p_mw": 39,
+      "q_mvar": 30
+    },
+    {
+      "id": "Load_93",
+      "bus_id": "Bus112",
+      "p_mw": 68,
+      "q_mvar": 13
+    },
+    {
+      "id": "Load_94",
+      "bus_id": "Bus113",
+      "p_mw": 6,
+      "q_mvar": 0
+    },
+    {
+      "id": "Load_95",
+      "bus_id": "Bus114",
+      "p_mw": 8,
+      "q_mvar": 3
+    },
+    {
+      "id": "Load_96",
+      "bus_id": "Bus115",
+      "p_mw": 22,
+      "q_mvar": 7
+    },
+    {
+      "id": "Load_97",
+      "bus_id": "Bus116",
+      "p_mw": 184,
+      "q_mvar": 0
+    },
+    {
+      "id": "Load_98",
+      "bus_id": "Bus117",
+      "p_mw": 20,
+      "q_mvar": 8
+    },
+    {
+      "id": "Load_99",
+      "bus_id": "Bus118",
+      "p_mw": 33,
+      "q_mvar": 15
+    }
+  ],
+  "shunts": [
+    {
+      "id": "Shunt_Bus5",
+      "bus_id": "Bus5",
+      "bus_idx": 4,
+      "q_mvar": 40,
+      "type": "reactor"
+    },
+    {
+      "id": "Shunt_Bus34",
+      "bus_id": "Bus34",
+      "bus_idx": 33,
+      "q_mvar": -14,
+      "type": "capacitor"
+    },
+    {
+      "id": "Shunt_Bus37",
+      "bus_id": "Bus37",
+      "bus_idx": 36,
+      "q_mvar": 25,
+      "type": "reactor"
+    },
+    {
+      "id": "Shunt_Bus44",
+      "bus_id": "Bus44",
+      "bus_idx": 43,
+      "q_mvar": -10,
+      "type": "capacitor"
+    },
+    {
+      "id": "Shunt_Bus45",
+      "bus_id": "Bus45",
+      "bus_idx": 44,
+      "q_mvar": -10,
+      "type": "capacitor"
+    },
+    {
+      "id": "Shunt_Bus46",
+      "bus_id": "Bus46",
+      "bus_idx": 45,
+      "q_mvar": -10,
+      "type": "capacitor"
+    },
+    {
+      "id": "Shunt_Bus48",
+      "bus_id": "Bus48",
+      "bus_idx": 47,
+      "q_mvar": -15,
+      "type": "capacitor"
+    },
+    {
+      "id": "Shunt_Bus74",
+      "bus_id": "Bus74",
+      "bus_idx": 73,
+      "q_mvar": -12,
+      "type": "capacitor"
+    },
+    {
+      "id": "Shunt_Bus79",
+      "bus_id": "Bus79",
+      "bus_idx": 78,
+      "q_mvar": -20,
+      "type": "capacitor"
+    },
+    {
+      "id": "Shunt_Bus82",
+      "bus_id": "Bus82",
+      "bus_idx": 81,
+      "q_mvar": -20,
+      "type": "capacitor"
+    },
+    {
+      "id": "Shunt_Bus83",
+      "bus_id": "Bus83",
+      "bus_idx": 82,
+      "q_mvar": -10,
+      "type": "capacitor"
+    },
+    {
+      "id": "Shunt_Bus105",
+      "bus_id": "Bus105",
+      "bus_idx": 104,
+      "q_mvar": -20,
+      "type": "capacitor"
+    },
+    {
+      "id": "Shunt_Bus107",
+      "bus_id": "Bus107",
+      "bus_idx": 106,
+      "q_mvar": -6,
+      "type": "capacitor"
+    },
+    {
+      "id": "Shunt_Bus110",
+      "bus_id": "Bus110",
+      "bus_idx": 109,
+      "q_mvar": -6,
+      "type": "capacitor"
+    }
+  ]
+}
