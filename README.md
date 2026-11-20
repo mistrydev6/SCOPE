@@ -35,3 +35,26 @@ SCOPE is an LLM-based transmission-grid reinforcement planner. The main agent pr
     └── ieee118_scenarios/
         ├── mapping_report.json       # validates scenario-to-network mapping
         └── records/                  # 24-hour operating scenario JSON files
+
+
+## Run
+
+From the extracted `scope` directory, install the simulator dependencies and start the local vLLM server in an environment with vLLM installed.
+
+```bash
+pip install -r requirements.txt
+bash serve_qwen.sh
+```
+
+In a second terminal, run one scenario.
+
+```bash
+python agent.py --scenario SCENARIO NAME HERE
+```
+The default server uses the Qwen3.5-9B.
+
+## Verify the installation
+
+```bash
+python tests/smoke_test.py
+```
