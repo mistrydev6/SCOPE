@@ -2,7 +2,7 @@
 
 SCOPE is an LLM-based transmission-grid reinforcement planner. The main agent proposes alternative reinforcement plans, verifies them with AC power flow and peak-hour N-1 contingency analysis, and reuses verified experience through episodic and procedural memory.
 
-## Repository Structure
+<!-- ## Repository Structure
 
 ```text
 .
@@ -40,7 +40,7 @@ SCOPE is an LLM-based transmission-grid reinforcement planner. The main agent pr
     └── ieee118_scenarios/
         ├── mapping_report.json      # scenario-to-network mapping report
         └── records/                 # 24-hour operating scenario JSON files
-```
+```-->
 
 ## Run
 
